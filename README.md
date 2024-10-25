@@ -9,10 +9,10 @@ git clone https://github.com/mlouguid/openvpn-install.git
 
 - give et access
 ```
-chmod +x openvpn-install
+chmod +x openvpn-install.sh
 ```
 
 - run bash
 ```
-./openvpn-install
+./openvpn-install.sh
 ```
