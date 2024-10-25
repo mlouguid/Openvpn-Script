@@ -2,17 +2,17 @@
 
 ## Clone the repo
 
-- clone the repo to your server 
+- Clone the repo to your server:
 ```
 git clone https://github.com/mlouguid/openvpn-install.git
 ```
 
-- give et access
+- Grant execute permissions:
 ```
 chmod +x openvpn-install.sh
 ```
 
-- run bash
+- Run the script:
 ```
 ./openvpn-install.sh
 ```
