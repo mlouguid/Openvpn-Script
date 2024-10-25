@@ -4,15 +4,15 @@
 
 - clone the repo to your server 
 ```
-git clone
+git clone https://github.com/mlouguid/openvpn-install.git
 ```
 
 - give et access
 ```
-chmod +x
+chmod +x openvpn-install
 ```
 
 - run bash
 ```
-./
+./openvpn-install
 ```
